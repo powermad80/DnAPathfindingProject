@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Graph.cpp">
+    <ClCompile Include="mygraph.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
